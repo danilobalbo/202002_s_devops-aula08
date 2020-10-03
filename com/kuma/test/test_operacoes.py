@@ -9,3 +9,4 @@ def test_negativo():
 
 def test_zero():
 	assert func(0) == 1
+
